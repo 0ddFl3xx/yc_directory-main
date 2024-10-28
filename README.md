@@ -10,6 +10,8 @@
 
 <h3 align="center">Startup Directory Platform</h3>
 
+- Step by step course by [JavaScript Mastery](https://www.youtube.com/@javascriptmastery/videos)
+
   
 </div>
 
@@ -79,7 +81,7 @@ Make sure you have the following installed on your machine:
 
 ```bash
 git clone 
-cd pitchify
+cd 
 ```
 
 **Installation**
